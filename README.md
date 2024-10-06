@@ -28,13 +28,13 @@ Certifique-se de ter as seguintes ferramentas instaladas:
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/seuusuario/seuprojeto.git
+   https://github.com/VitorRobertoOliveira/playwright_web_project.git
    ```
 
 2. Acesse o diretório do projeto:
 
    ```bash
-   cd seuprojeto
+   cd playwright_web_project
    ```
 
 3. Instale as dependências:
