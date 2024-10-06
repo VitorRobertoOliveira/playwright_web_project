@@ -37,16 +37,28 @@ Certifique-se de ter as seguintes ferramentas instaladas:
    cd playwright_web_project
    ```
 
-3. Instale as dependências:
+3. Instale o Playwright com npm:
 
    ```bash
-   npm install
+   npm init playwright@latest
    ```
 
-4. Instale os navegadores do Playwright:
+4. Instale o Playwright com yarn:
 
    ```bash
-   npx playwright install
+   yarn create playwright
+   ```
+
+5. O que será intalado:
+
+   ```typescript
+   playwright.config.ts
+   package.json
+   package-lock.json
+   tests/
+      example.spec.ts
+   tests-examples/
+      demo-todo-app.spec.ts
    ```
 
 ## Executando os Testes
