@@ -134,15 +134,4 @@ Para debugar seus testes:
 
 1. Adicione `test.only` para executar um teste específico.
 2. Use `npx playwright test --debug` para pausar a execução e interagir com o navegador.
-
-## Contribuição
-
-Sinta-se à vontade para contribuir abrindo issues ou criando pull requests. Siga as diretrizes de código estabelecidas e escreva testes adequados para qualquer nova funcionalidade ou correção de bugs.
-
-## Licença
-
-Este projeto está licenciado sob a licença MIT.
-
----
-
-### Boas Testes! 🎉
+3. Use `npx playwright test --debug --UI` para pausar a execução e interagir com o navegador utilizando a interface do playwright.
