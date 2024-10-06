@@ -28,7 +28,7 @@ Certifique-se de ter as seguintes ferramentas instaladas:
 1. Clone o repositório:
 
    ```bash
-   https://github.com/VitorRobertoOliveira/playwright_web_project.git
+   git clone https://github.com/VitorRobertoOliveira/playwright_web_project.git
    ```
 
 2. Acesse o diretório do projeto:
