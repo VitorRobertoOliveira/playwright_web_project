@@ -61,6 +61,12 @@ Certifique-se de ter as seguintes ferramentas instaladas:
       demo-todo-app.spec.ts
    ```
 
+6. Instale os navegadores do Playwright:
+
+   ```bash
+   npx playwright install
+   ```
+
 ## Executando os Testes
 
 ### Executar Todos os Testes
