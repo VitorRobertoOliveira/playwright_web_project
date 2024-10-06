@@ -1,4 +1,3 @@
-Claro! Abaixo está o mesmo conteúdo formatado corretamente para um arquivo README de GitHub, usando a sintaxe de Markdown:
 
 ---
 
